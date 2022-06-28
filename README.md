@@ -15,7 +15,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, SEE [LICENSE FIL
 - Bamboo HR API Key (you can generate one in your profile section on Bamboo)
 
 ### Install & run:
-1. clone this repo in a folder
+1. clone this repo in a local folder
 2. create & activate a python virtualenv (optional but recommended)
 
     ```$ python -m venv .venv```
@@ -39,4 +39,4 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, SEE [LICENSE FIL
 ### More info:
 ```$ python holiday_overview.py -h```
 
-to get some easter eggs
+to get available options

@@ -4,10 +4,9 @@ This helps to spot overlapping time off within a team
 
 NOTE: team = the user and its direct reports
 
-![Example](./example.png)
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, SEE [LICENSE FILE](./LICENSE) FOR FURTHER DETAILS
 
-### WARNING: USE AT YOUR OWN RISK
-please review the code before executing it
+![Example](./example.png)
 
 ---
 ## Usage:
